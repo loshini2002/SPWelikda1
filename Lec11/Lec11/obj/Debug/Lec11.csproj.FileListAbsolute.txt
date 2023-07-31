@@ -1,0 +1,8 @@
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\bin\Debug\Lec11.exe.config
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\bin\Debug\Lec11.exe
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\bin\Debug\Lec11.pdb
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\obj\Debug\Lec11.csproj.AssemblyReference.cache
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\obj\Debug\Lec11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\obj\Debug\Lec11.csproj.CoreCompileInputs.cache
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\obj\Debug\Lec11.exe
+C:\Users\Hasindi Navinma\OneDrive\Documents\Desktop\C#_lab\Lec11\Lec11\obj\Debug\Lec11.pdb
